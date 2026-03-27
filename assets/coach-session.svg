@@ -1,0 +1,39 @@
+<svg width="860" height="620" viewBox="0 0 860 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="coachAccent" x1="160" y1="80" x2="650" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C7FF27"/>
+      <stop offset="1" stop-color="#8FE300"/>
+    </linearGradient>
+  </defs>
+  <rect x="42" y="42" width="776" height="536" rx="40" fill="#0E1317"/>
+  <rect x="42" y="42" width="776" height="536" rx="40" stroke="#C7FF27" stroke-opacity="0.16" stroke-width="2"/>
+  <circle cx="632" cy="136" r="132" fill="#C7FF27" fill-opacity="0.08"/>
+  <rect x="112" y="110" width="224" height="324" rx="28" fill="#151C21"/>
+  <rect x="112" y="110" width="224" height="324" rx="28" stroke="#E9FFC0" stroke-opacity="0.10"/>
+  <path d="M156 162H292" stroke="#F7F7F2" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M156 204H252" stroke="#F7F7F2" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M156 246H276" stroke="#F7F7F2" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="148" y="286" width="152" height="106" rx="22" fill="#C7FF27" fill-opacity="0.10"/>
+  <path d="M176 350L208 318L228 338L266 300" stroke="#C7FF27" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="468" cy="174" r="44" fill="url(#coachAccent)"/>
+  <path d="M430 230C430 209.013 447.013 192 468 192C488.987 192 506 209.013 506 230V262H430V230Z" fill="#E0E4DA"/>
+  <path d="M444 262H492L524 390L490 540H450L416 390L444 262Z" fill="#E6EBE0"/>
+  <path d="M436 294L360 372L326 358L410 270L436 294Z" fill="#E6EBE0"/>
+  <rect x="312" y="342" width="72" height="28" rx="14" fill="#C7FF27"/>
+  <circle cx="618" cy="198" r="38" fill="#E3E8DD"/>
+  <path d="M584 248C584 229.222 599.222 214 618 214C636.778 214 652 229.222 652 248V274H584V248Z" fill="#D7DED1"/>
+  <path d="M594 274H642L666 376L638 524H604L578 376L594 274Z" fill="#D7DED1"/>
+  <path d="M628 286L700 350L726 338L648 272L628 286Z" fill="#D7DED1"/>
+  <rect x="710" y="326" width="82" height="34" rx="17" fill="#C7FF27"/>
+  <rect x="508" y="304" width="110" height="148" rx="28" fill="#151C21"/>
+  <rect x="508" y="304" width="110" height="148" rx="28" stroke="#E9FFC0" stroke-opacity="0.12"/>
+  <path d="M548 350H578" stroke="#C7FF27" stroke-width="6" stroke-linecap="round"/>
+  <path d="M548 382H578" stroke="#F7F7F2" stroke-opacity="0.8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M548 414H568" stroke="#F7F7F2" stroke-opacity="0.35" stroke-width="6" stroke-linecap="round"/>
+  <rect x="116" y="470" width="220" height="66" rx="22" fill="#151C21"/>
+  <rect x="116" y="470" width="220" height="66" rx="22" stroke="#E9FFC0" stroke-opacity="0.12"/>
+  <text x="146" y="510" fill="#F7F7F2" font-size="22" font-family="Arial, sans-serif" font-weight="700">Coach &amp; Client Session</text>
+  <rect x="554" y="92" width="170" height="56" rx="20" fill="#151C21"/>
+  <rect x="554" y="92" width="170" height="56" rx="20" stroke="#E9FFC0" stroke-opacity="0.12"/>
+  <text x="580" y="126" fill="#F7F7F2" font-size="20" font-family="Arial, sans-serif" font-weight="700">Fitness Life</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="40" fill="#0E1317"/>
+  <circle cx="360" cy="360" r="210" stroke="#F7F7F2" stroke-opacity="0.08" stroke-width="84"/>
+  <circle cx="360" cy="360" r="210" stroke="#C7FF27" stroke-width="84" stroke-dasharray="220 1200" stroke-linecap="round"/>
+  <circle cx="360" cy="360" r="128" fill="#11181D" stroke="#C7FF27" stroke-opacity="0.16" stroke-width="2"/>
+  <text x="360" y="336" text-anchor="middle" fill="#F7F7F2" font-size="48" font-family="Arial, sans-serif" font-weight="700">FITNESS</text>
+  <text x="360" y="388" text-anchor="middle" fill="#C7FF27" font-size="48" font-family="Arial, sans-serif" font-weight="700">LIFE</text>
+  <g>
+    <rect x="86" y="130" width="180" height="80" rx="24" fill="#151C21"/>
+    <text x="176" y="167" text-anchor="middle" fill="#F7F7F2" font-size="24" font-family="Arial, sans-serif" font-weight="700">Gerak</text>
+    <text x="176" y="194" text-anchor="middle" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Latihan yang terarah</text>
+  </g>
+  <g>
+    <rect x="452" y="130" width="180" height="80" rx="24" fill="#151C21"/>
+    <text x="542" y="167" text-anchor="middle" fill="#F7F7F2" font-size="24" font-family="Arial, sans-serif" font-weight="700">Makan</text>
+    <text x="542" y="194" text-anchor="middle" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Realistis &amp; bisa dijalani</text>
+  </g>
+  <g>
+    <rect x="86" y="518" width="180" height="80" rx="24" fill="#151C21"/>
+    <text x="176" y="555" text-anchor="middle" fill="#F7F7F2" font-size="24" font-family="Arial, sans-serif" font-weight="700">Mindset</text>
+    <text x="176" y="582" text-anchor="middle" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Support yang sehat</text>
+  </g>
+  <g>
+    <rect x="452" y="518" width="180" height="80" rx="24" fill="#151C21"/>
+    <text x="542" y="555" text-anchor="middle" fill="#F7F7F2" font-size="24" font-family="Arial, sans-serif" font-weight="700">Progress</text>
+    <text x="542" y="582" text-anchor="middle" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Konsisten &amp; berkelanjutan</text>
+  </g>
+  <path d="M266 174L304 228" stroke="#C7FF27" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M454 174L416 228" stroke="#C7FF27" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M266 546L304 492" stroke="#C7FF27" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M454 546L416 492" stroke="#C7FF27" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round"/>
+</svg>

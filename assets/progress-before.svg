@@ -1,0 +1,16 @@
+<svg width="720" height="760" viewBox="0 0 720 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="760" rx="32" fill="#11161B"/>
+  <rect x="22" y="22" width="676" height="716" rx="24" stroke="#F7F7F2" stroke-opacity="0.08" stroke-width="2"/>
+  <text x="58" y="92" fill="#F7F7F2" font-size="32" font-family="Arial, sans-serif" font-weight="700">Sebelum</text>
+  <text x="58" y="126" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Ilustrasi progres visual</text>
+  <circle cx="360" cy="182" r="60" fill="#B7C0C6"/>
+  <path d="M302 244C302 211.968 327.968 186 360 186C392.032 186 418 211.968 418 244V312H302V244Z" fill="#BDC6CC"/>
+  <path d="M314 312H406L438 466L404 648H370L344 510L316 648H282L302 466L314 312Z" fill="#A9B3BA"/>
+  <path d="M310 340L236 428L204 414L282 322L310 340Z" fill="#BDC6CC"/>
+  <path d="M410 340L484 428L516 414L438 322L410 340Z" fill="#BDC6CC"/>
+  <ellipse cx="360" cy="666" rx="164" ry="26" fill="#090C0F"/>
+  <rect x="76" y="584" width="220" height="98" rx="24" fill="#181F24"/>
+  <rect x="76" y="584" width="220" height="98" rx="24" stroke="#F7F7F2" stroke-opacity="0.10"/>
+  <text x="106" y="624" fill="#F7F7F2" font-size="22" font-family="Arial, sans-serif" font-weight="700">Mulai dari nol</text>
+  <text x="106" y="654" fill="#B3BBC1" font-size="16" font-family="Arial, sans-serif">Masih bingung arah latihan</text>
+</svg>

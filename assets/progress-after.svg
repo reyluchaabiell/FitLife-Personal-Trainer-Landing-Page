@@ -1,0 +1,19 @@
+<svg width="720" height="760" viewBox="0 0 720 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="760" rx="32" fill="#11161B"/>
+  <rect x="22" y="22" width="676" height="716" rx="24" stroke="#C7FF27" stroke-opacity="0.22" stroke-width="2"/>
+  <circle cx="520" cy="154" r="170" fill="#C7FF27" fill-opacity="0.12"/>
+  <text x="58" y="92" fill="#F7F7F2" font-size="32" font-family="Arial, sans-serif" font-weight="700">Sesudah</text>
+  <text x="58" y="126" fill="#AAB2B8" font-size="16" font-family="Arial, sans-serif">Ilustrasi progres visual</text>
+  <circle cx="360" cy="176" r="56" fill="#C7FF27"/>
+  <path d="M304 234C304 203.072 329.072 178 360 178C390.928 178 416 203.072 416 234V284H304V234Z" fill="#E2E7DA"/>
+  <path d="M320 284H400L432 430L402 648H368L350 512L318 648H284L298 430L320 284Z" fill="#EEF2E9"/>
+  <path d="M318 308L246 404L212 392L292 286L318 308Z" fill="#EEF2E9"/>
+  <path d="M402 308L474 404L508 392L428 286L402 308Z" fill="#EEF2E9"/>
+  <rect x="336" y="332" width="48" height="120" rx="20" fill="#C7FF27" fill-opacity="0.22"/>
+  <rect x="324" y="280" width="72" height="20" rx="10" fill="#C7FF27"/>
+  <ellipse cx="360" cy="666" rx="164" ry="26" fill="#090C0F"/>
+  <rect x="424" y="582" width="220" height="98" rx="24" fill="#181F24"/>
+  <rect x="424" y="582" width="220" height="98" rx="24" stroke="#C7FF27" stroke-opacity="0.18"/>
+  <text x="454" y="622" fill="#F7F7F2" font-size="22" font-family="Arial, sans-serif" font-weight="700">Lebih kuat &amp; fokus</text>
+  <text x="454" y="652" fill="#B3BBC1" font-size="16" font-family="Arial, sans-serif">Arah latihan lebih jelas</text>
+</svg>
